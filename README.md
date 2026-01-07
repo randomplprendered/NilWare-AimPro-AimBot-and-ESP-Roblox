@@ -1,4 +1,4 @@
-# NilWare AimPro V2.0
+# NilWare AimPro V2.0, version 1.25
 
 > **© 2026 NilWare Development. All Rights Reserved.**
 > *Unauthorized copying, modification, or distribution is strictly prohibited.*
@@ -25,7 +25,7 @@ We prioritize your FPS. The ESP system uses a smart culling logic:
 *   🔴 **Enemy Render Distance:** `2000 studs`
     *   *Reason:* Maximum tactical advantage. See hostiles before they see you.
 
-> *Note: These values are optimized for high-population servers (Tested on Naramo).*
+> *Note: These values are optimized for high-population servers.*
 
 ---
 
@@ -35,32 +35,18 @@ We prioritize your FPS. The ESP system uses a smart culling logic:
 This script is **NOT** compatible with games using custom character systems/frameworks, such as:
 *   **Frontlines**
 *   **Frontlines: Versus**
-
-### ⚠️ Risk Warning
-*   **Rivals:** The script functions correctly, but use at your own risk. Anti-cheat systems may flag aggressive settings.
-*   **General:** Always use "Legit" smoothness settings on public servers to avoid manual reports.
-
----
-
-## ☢️ Editions
-
-### 🔹 Universal Edition (V2.0)
-The standard version for most Roblox shooters.
-
-### 🔸 Naramo Edition (Special Build)
-A specialized version for **Naramo Power Plant V2** (Stratocracy).
-**Exclusive Features:**
-*   🕵️ **Civilian Logic:** Highlights non-authorized civilians (fake civs) in orange.
-*   🛡️ **Auth Check:** Automatically ignores players with `[AUTH]` tags.
-*   🪟 **Glass Wallbang:** Aimbot tracks targets through glass surfaces.
-
----
+For Naramo Power Plant V2.0, use our loader or: ```loadstring(game.HttpGet("https://raw.githubusercontent.com/randomplprendered/NaramoPro/refs/heads/main/latest.lua"))("NilWare-Official","http://discord.gg/9mv2DBkT8w")
+else -- Universal```
 
 ## 🎯 Version:
 
-### V1.0 (Current)
+### V1.0
 Changelog:
 * Created
+
+### V1.25 (Current)
+Changelog:
+* Added Trigger bot
 
 ### V1.5 (Next)
 Planned changelog:
